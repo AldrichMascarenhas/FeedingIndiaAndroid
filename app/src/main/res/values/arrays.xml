@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="pickup_date_options">
+        <item>@string/today</item>
+        <item>@string/tomorrow</item>
+    </string-array>
+
+    <string-array name="locations_available">
+        <item>Bangalore</item>
+        <item>Bhubaneswar</item>
+        <item>Chandigarh</item>
+        <item>Chennai</item>
+        <item>Delhi</item>
+        <item>Faridabad</item>
+        <item>Ghaziabad</item>
+        <item>Goa</item>
+        <item>Gurgaon</item>
+        <item>Hyderabad</item>
+        <item>Indore</item>
+        <item>Jaipur</item>
+        <item>Kolkata</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+        <item>Noida</item>
+        <item>Pune</item>
+        <item>Other</item>
+
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,244 @@
+<resources>
+    <string name="app_name">Feeding India</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_introduction">IntroductionActivity</string>
+    <string name="title_activity_register">Register as a Donor</string>
+    <string name="title_activity_donate">Donate Food</string>
+
+
+
+    <!--Edit TextInputLayout Strings-->
+    <string name="hint_email">Email</string>
+    <string name="err_email">Invalid Email</string>
+
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_emailaddress">Email Address</string>
+    <string name="hint_firstname">First Name</string>
+    <string name="hint_lastname">Last Name</string>
+
+
+    <string name="hint_addressline1">Flat/House No, Floor, Building</string>
+    <string name="hint_addressline2">Colony/Society, Street, Locality</string>
+    <string name="hint_town">Town/City</string>
+    <string name="hint_state">State</string>
+    <string name="hint_pincode">Pin Code</string>
+    <string name="hint_landmark">Landmark</string>
+
+    <string name="description_hint">Description of Food</string>
+    <string name="feed_hint">I have food for</string>
+
+    <string name="Veg_text">Veg</string>
+    <string name="NonVeg_text">Non-Veg</string>
+    <string name="Both_Veg_NonVeg">Both</string>
+
+    <string name="Packaged">Packed</string>
+    <string name="Unpackaged">Unpacked</string>
+    <string name="Both_Packaged_Unpackaged">Both</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="err_firstname">Invalid First Name</string>
+    <string name="err_lastname">Invalid Last Name</string>
+    <string name="err_phone">Invalid Phone Number</string>
+    <string name="err_addressline1">Invalid Address</string>
+    <string name="err_addressline2">Invalid Address</string>
+    <string name="err_town">Invalid Town</string>
+    <string name="err_state">Invalid State</string>
+    <string name="err_pincode">Invalid Pincode</string>
+    <string name="err_landmark">Invalid Landmark</string>
+
+    <string name="err_description_food">Please enter a Description of Food</string>
+
+
+
+    <string name="food_for_text">Estimated number of people this can feed</string>
+
+    <string name="food_type_text">Type :</string>
+
+    <string name="food_packaging_text">Packaging :</string>
+    <string name="title_activity_volunteer_register">Volunteer Registration</string>
+
+    <string name="default_location">Default</string>
+    <string name="geolocation">Geo Location</string>
+    <string name="new_address">New Address</string>
+
+
+    <string name="intro_1_text1">MY</string>
+    <string name="intro_1_text2">FEEDING INDIA</string>
+    <string name="intro_1_text3">MOBILE APP</string>
+
+    <string name="intro_2_text1">CONNECT</string>
+    <string name="intro_2_text2">WITH HUNGER HEROES</string>
+    <string name="intro_2_text3">NEAREST TO YOU</string>
+
+    <string name="intro_3_text1">DONATE</string>
+    <string name="intro_3_text2">FOOD</string>
+    <string name="intro_3_text3">WITH EASE</string>
+
+    <string name="intro_4_text1">HELP</string>
+    <string name="intro_4_text2">PEOPLE IN NEED</string>
+
+
+    <!--Button texts-->
+    <string name="button_text_register">Don\'t have an Account? Sign up</string>
+    <string name="button_text_volunteer">Join the Cause. Volunteer</string>
+    <string name="button_text_login">Log in to Donate</string>
+    <string name="button_text_thank_you">Make another donation</string>
+
+
+    <string name="button_text_skip_login">Skip Login</string>
+    <string name="title_activity_thank_you_screen">Thank You</string>
+    <string name="thank_you_text1">A Hunger Hero\nwill contact you shortly</string>
+    <string name="thank_you_text2">Thank you!</string>
+    <string name="thank_you_text3">for donating food</string>
+
+    <string name="title_activity_legal">Legal</string>
+
+    <string name="select_day">Select</string>
+    <string name="pick_a_day">Choose Pickup Date</string>
+
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+
+
+    <string name="leftIndex">Today</string>
+    <string name="leftIndexValue">Tomorrow</string>
+    <string name="rightIndex">Today</string>
+    <string name="rightIndexValue">Tomorrow</string>
+
+    <string name="legal">STARTING OF THE APP
+
+
+
+
+
+ABOUT
+
+Feeding India is a mobile application which helps solve the problem of hunger by redistributing it from where it is in excess to the ones who have no access to it. It connects individuals that wish to donate food with volunteers who wish to pick up and deliver the food to the poor and the needy. It also helps a new user to get involved with Feeding India as a volunteer. Please read these Terms and Conditions carefully before accessing or using the Feeding India mobile application. By accessing or downloading or registering with the Feeding India mobile application, you agree to be bound by these Terms and Conditions. If you do not agree to all or any of these Terms and Conditions, then you may not access, download, register with the Feeding India mobile application.
+
+TERMS AND CONDITIONS
+
+Hunger Heroes, a society incorporated under the Societies Registration Act, 1860 having its registered office at 20/1, Old Market, West Patel Nagar, Delhi 110008, (hereinafter referred to as, “Feeding India”)is the owner of the mobile application Feeding India (the “Application Provider”) reserves all rights not expressly granted to you under these Terms and Conditions. Feeding India mobile application, the product that is subject to these Terms and Conditions is hereafter referred to as the “Licensed Application”.
+
+Scope of License
+
+This license granted to you for the Licensed Application by the Application Provider, is limited to a non-exclusive, non-transferable, license to use the Licensed Application on any Android™ device that you own or control. This license does not allow you to use the Licensed Application on any Android™ device that you do not own or control, and you may not distribute or make the Licensed Application available over a network where it could be used by multiple devices at the same time. Nothing contained in the Licensed Application should be considered as granting you, by implication or otherwise, any license or right to use any trade-marks, logos, or other names contained in the Licensed Application. You may not rent, lease, lend, sell, redistribute or sublicense the Licensed Application. You may not copy, decompile, reverse engineer, disassemble, attempt to derive the source code of, modify, or create derivative works of the Licensed Application, any updates, or any part thereof (except as and only to the extent any foregoing restriction is prohibited by applicable law or to the extent as may be permitted by the licensing terms governing use of any open sourced components included within the Licensed Application). Any attempt to do so is a violation of the rights of the Application Provider and its licensors. If you breach this restriction, you may be subject to prosecution and damages. The terms of the license will govern any upgrades provided by the Application Provider that replace and/or supplement the original Licensed Application, unless such upgrade is accompanied by a separate license in which case the terms of that license will govern its use.
+
+User Access and Consent to Use of Data
+
+By downloading and registering with the Licensed Application, you represent that you are not barred by any law, in any jurisdiction or bound by any agreement that restricts your rights to access, download and register with the Licensed Application and to make payments through the Licensed Application.
+
+In order to register with the Licensed Application you will have to provide your mobile number, name, email ID or if you are login through Facebook your name, email ID and Facebook profile picture. You will ensure that the mobile number, name, email ID and facebook login information provided for registration with the Licensed Application is your own and does not belong to any third party and that it is a valid and existing mobile number, email ID and facebook profile.
+
+You will solely be responsible for all usage or activity in your account after registration with the Licensed Application, including use of the account by any third party authorized by you. You agree that you will not use the Licensed Application to post pornographic content or content that may be deemed offensive, indecent, or objectionable, which content may or may not be identified as having explicit language. Any fraudulent, abusive, misuse or otherwise illegal activity may be grounds for removal of such content and/or termination of your account at the Application Provider’s sole discretion. You will immediately notify the Application Provider hungerheroes.developer@gmail.com of any known or suspected unauthorized use(s) of your account, or any known or suspected breach of security. The Application Provider will not be liable for any losses caused to you, whether directly or indirectly for any unauthorized use of your account or for your failure or delay to intimate the Application Provider of known or suspected unauthorized use(s) of your account, or any known or suspected breach of security.
+
+You acknowledge, consent and agree that the Application Provider may access, preserve or disclose your account information, including but not limited to personal information like your name, mobile number, email ID, facebook login details if required to do so by law or in good faith, believing that such access, preservation or disclosure is reasonably necessary to (a) comply with legal process or the order of any Government authority; (b) enforce the Terms and Conditions; (c) respond to claims that the registration information like mobile number, name, email ID, facebook login details violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect the rights, property or personal safety of the Application Provider, its users and the public.
+
+You acknowledge and agree that upon your registration and use of the Licensed Application, the Application Provider will collect, use, store and archive information about you in the following general categories:
+
+Personal Information: We access personal information provided by you, such as information provided at the time of (i) registration or in relation to use or modification of your account, (ii) request for customer support, or (iii) which is otherwise communicated to us which may include your name, gender, email ID, mobile number, mailing address(es), website, Facebook login information and your Facebook picture to (a) resolve any complaints/feedback in relation to the use of the Licensed Application, and (b) enhance your experience of the Licensed Application; and (c) provide you with customized content on the Licensed Application. In this regard please note that we access your mobile number for the purpose of connecting the donors and the volunteers. Further the facebook picture is collected to help the donors identify the volunteer when he/she comes to pick up the food from the donor.
+
+Location Information: We access/derive your precise location from your GPS, mobile network to help connect  donors and  volunteers for the purpose of picking up the food.
+
+
+Usage and Preference Information: We may access information about your interactions with the Licensed Application such as the date and time you use the Licensed Application, the number of times you donate food, the number of times you volunteer to pick up food, the number of times you cancel your request for food donation and/or volunteer to pick up the food, etc.
+
+Device Information: We may access information about your mobile device, including, for example, operating system and version, software and file names and versions, device booting status, mobile mode and state (including the silent mode, sleep mode, call function etc) and mobile network information to facilitate the provision and resumption of services and functions related to the Licensed Application, including connecting donors and volunteers using the mobile network of each user, as well to provide  software updates, and product support. We may also access the accounts on your mobile device for the purposes of pushing notifications for supporting past Android™ versions. Additionally, we may access the device internal and external storage to seamlessly store in such storage, the Google maps that you use or download during the course of using the Licensed Application.
+
+Internet: We will access the internet or wifi network or any changes in the internet or wifi network of your mobile device for running the Licensed Application.
+
+
+Log Information: When you interact with the Licensed Application, we collect server logs, which may include information like device IP address, access dates and times to understand the usage of the Licensed
+
+
+
+Application.
+
+Interactive Features Information:The Application Provider will store any information you share using the interactive features (such as posts/notes) of the Licensed Application. You understand that any information (including personal information) which you may share with other users of the Licensed Application will be solely at your risk as to the security of such information and the Application Provider cannot guarantee the security of such information or the nature of its use by the third parties to whom you disclose such information.
+
+
+Termination
+
+The license to the Licensed Application is effective until terminated by you or by the Application Provider in the following circumstances:
+
+(i)        When you delete your account of your own accord or send an email hungerheroes.developer@gmail.com  requiring deletion of your account;
+
+(ii)        When the Application Provider ceases to make available the Licensed Application with the provision of forty five (45) days notice.
+
+Additionally, your rights under this license will terminate automatically without notice from the Application Provider, if you fail to comply with any term(s) set out in these Terms and Conditions. In such event, the Application Provider reserves the rights to delete your account and deny you access to the Licensed Application. Upon termination of the license for any reason, you shall cease all use of the Licensed Application, and destroy all copies, full or partial, of the Licensed Application.
+
+[Note: Merely un-installing the Licensed Application from your mobile device will not result in the deletion of your account or your information from the Licensed Application and you will have to send an email hungerheroes.developer@gmail.com if you wish to delete all your account or your information from the Licensed Application databases and servers.]
+
+Services and Third Party Material
+
+The Licensed Application connects individuals/restaurants that wish to donate food with volunteers who wish to dedicate their time and effort to pick up and deliver food to the poor and needy, free of any costs with regard to such delivery of food or for the food itself. You acknowledge and understand that the Application Provider only connects donors and volunteers for the purpose of delivering food to the underprivileged and does not warrant the quality, quantity, taste of food that will be donated or that the food will be fit for consumption. You also understand and agree that we do not select or screen any donors or volunteers through the mobile application or otherwise and therefore we cannot guarantee the veracity and credentials of donors and volunteers, the number and availability of donors or volunteers, the number of meals that will be provided, the time at which the food will be picked by the volunteers, the state or quantity of food when delivered, or if the food will be picked up at all. Further, you acknowledge and understand that we do not select or screen the persons who ultimately receive the food and therefore the Application Provider cannot be held liable if the food is not delivered to the poor and needy.
+Any individual who register for volunteer program through the Licensed Application is mere a volunteer who execute/ implement donations and do not officially represent Hunger Heroes or Feeding India in any manner.
+
+
+You agree that you cannot use the Licensed Application for selling any services or deriving any profit from making available food donated through the Licensed Application.
+
+You understand that by using the Licensed Application, you may encounter content that may be deemed offensive, indecent, or objectionable, which content may or may not be identified as having explicit language. Nevertheless, you agree to use the Licensed Application at your sole risk and that the Application Provider shall not have any liability to you for content that may be found to be offensive, indecent, or objectionable. You also understand that any information (including personal information) you may share with other users of the Licensed Application (such as posts, notes, etc) will be solely at your risk as to the security of such information and the Application Provider cannot guarantee the security of such information or the nature of its use by the users to whom you disclose such information.
+
+You agree that the Licensed Application contains proprietary content, information and material that is protected by applicable intellectual property and other laws, including but not limited to copyright, and that you will not use such proprietary content, information or materials in any way whatsoever except for permitted use of the Licensed Application. You agree not to modify, rent, lease, loan, sell, distribute, or create derivative works of the Licensed Application, in any manner, and you shall not exploit the Licensed Application in any unauthorized way whatsoever, including but not limited to, by trespass or burdening network capacity. You further agree not to use the Licensed Application in any manner to harass, abuse, stalk, bully, threaten, defame, impersonate, exhibit or transmit sexually explicit, pornographic, pedophilic content, promulgate hate speech, carry out illegal activities or otherwise infringe or violate the rights of any person (including other users of the Licensed Application and third parties, related or unrelated to the use of the Licensed Application or the services provided through it) including any copyright, trademark, trade secret or other proprietary rights of such persons. You also agree that the Application Provider is not in any way responsible for any such use by you, nor for any harassing, threatening, defamatory, offensive or illegal messages or transmissions that you may receive as a result of using the Licensed Application.
+
+The Application Provider, and its licensors, reserve the right to change, suspend, remove, or disable access to the Licensed Application at any time without notice. In no event will the Application Provider be liable for the removal of or disabling of access to any services through the Licensed Application.
+
+Advertisements
+
+The Application Provider or any third party advertisers may display advertisements and promotions on the Licensed Application. The manner, mode and extent of advertising by the Application Provider on the Licensed Application are subject to change. By clicking on any advertisements you may leave the Licensed Application and be directed to an external application/website, or to an application/website maintained by an entity other than the Application Provider. If you decide to visit any such website, you do so at your own risk and it is your responsibility to take all protective measures to guard against viruses or other destructive elements. The Application Provider makes no warranty or representation regarding, and does not endorse, any linked websites or the information appearing thereon or any of the products or services described thereon.
+
+The Application Provider makes no warranty or representation regarding the merchantability, fitness for particular purpose, availability, efficacy, reliability, durability of any product or service advertised on the Licensed Application.
+
+NO WARRANTY
+
+YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE LICENSED APPLICATION IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED APPLICATION AND ANY SERVICES PERFORMED OR PROVIDED BY THE LICENSED APPLICATION ("SERVICES") ARE PROVIDED "AS IS" AND “AS AVAILABLE”, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND, AND THE APPLICATION PROVIDER HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE LICENSED APPLICATION AND ANY SERVICES, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD PARTY RIGHTS. APPLICATION PROVIDER DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE LICENSED APPLICATION, THAT THE FUNCTIONS CONTAINED IN, OR SERVICES PERFORMED OR PROVIDED BY, THE LICENSED APPLICATION WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE LICENSED APPLICATION OR SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE LICENSED APPLICATION OR SERVICES WILL BE CORRECTED. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY APPLICATION PROVIDER OR ITS AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY. SHOULD THE LICENSED APPLICATION OR SERVICES PROVE DEFECTIVE, YOU ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES OR LIMITATIONS ON APPLICABLE STATUTORY RIGHTS OF A CONSUMER, IN SUCH CASES THE ABOVE EXCLUSION AND LIMITATIONS WILL APPLY TO YOU TO THE EXTENT PERMISSIBLE BY LAW.
+
+LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE APPLICATION PROVIDER OR ANY OF ITS SUBSIDIARIES OR AFFILIATES BE LIABLE TO YOU OR ANY PERSON FOR ANY DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL OR OTHER DAMAGES (INCLUDING, WITHOUT LIMITATION, ANY LOST PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION OR PROGRAMS OR OTHER DATA ON YOUR INFORMATION HANDLING SYSTEM) THAT ARE RELATED TO THE USE OF, OR THE INABILITY TO USE, THE SERVICES AND FUNCTIONS OF THE LICENSED APPLICATION OR ANY LINKED WEB SITE/ MOBILE APPLICATION, EVEN IF THE APPLICATION PROVIDER IS EXPRESSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+INDEMNITY
+
+You agree to indemnify and hold harmless the Application Provider, its subsidiaries and affiliates from any claim, cost, expense, judgment or other loss relating to your use of the Licensed Application, including without limitation of the foregoing, any action you take which is in violation of these Terms and Conditions.
+
+CHOICE OF LAW
+
+These Terms and Conditions shall be governed by the laws of Republic of India without giving effect to its conflict of laws provisions. These Terms and Conditions shall be subject to the exclusive jurisdiction of the courts at Bangalore, India.
+
+NO THIRD PARTY BENEFICIARIES
+
+This contract is solely for your benefit and the benefit of Application Provider.
+
+SEVERABILITY
+
+If for any reason a court of competent jurisdiction finds any provision or portion of these Terms and Conditions to be unenforceable, the remainder of these Terms and Conditions will continue in full force and effect.
+
+Please email us at hungerheroes.developer@gmail.com if you have any questions regarding these Terms and Conditions.
+
+ANDROID™ TERMS OF USE
+
+You will be governed by any additional terms of use that may be specified by the Android™ store or platform from which you downloaded this Licensed Application.
+
+CONTACT US
+
+If you have any concerns, complaints or grievances about other users or their manner of use of the Licensed Application, including their use of the Licensed Application in any manner to harass, abuse, stalk, bully, threaten, defame, impersonate, exhibit or transmit sexually explicit, pornographic, pedophilic content, promulgate hate speech, carry out illegal activities or otherwise infringe or violate your rights including any copyright, trademark, trade secret or other proprietary rights, please feel free to contact the Grievance Officer any time at:
+
+Name: Aakash K. Kashyap
+Mobile – 9999228590
+Email – hungerheroes.developer@gmail.com
+
+
+
+
+</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+
+
+
+
+
+
+</resources>

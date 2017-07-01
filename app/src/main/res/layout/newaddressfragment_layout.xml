@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!--Address-->
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/addressline1_input_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:hintTextAppearance="@style/TextAppearance.AppCompat">
+
+                <EditText
+                    android:imeOptions="actionNext"
+                    android:id="@+id/addressline1_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/hint_addressline1" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/addressline2_input_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:hintTextAppearance="@style/TextAppearance.AppCompat">
+
+                <EditText
+                    android:imeOptions="actionNext"
+
+                    android:id="@+id/addressline2_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/hint_addressline2" />
+            </android.support.design.widget.TextInputLayout>
+
+            <!--
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/town_input_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:hintTextAppearance="@style/TextAppearance.AppCompat">
+
+                <EditText
+                    android:id="@+id/town_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/hint_town" />
+            </android.support.design.widget.TextInputLayout>
+
+            -->
+
+            <Button
+                android:background="@color/green_2"
+                android:textColor="@color/white"
+                android:layout_height="wrap_content"
+                android:id="@+id/longList"
+                android:layout_width="match_parent"
+                android:text="Select City" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/selectedcityx"/>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/pincode_input_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:hintTextAppearance="@style/TextAppearance.AppCompat">
+
+                <EditText
+                    android:imeOptions="actionNext"
+
+                    android:id="@+id/pincode_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/hint_pincode" />
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/landmark_input_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:hintTextAppearance="@style/TextAppearance.AppCompat">
+
+                <EditText
+                    android:imeOptions="actionNext"
+
+                    android:id="@+id/landmark_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/hint_landmark" />
+            </android.support.design.widget.TextInputLayout>
+
+
+            <Button
+                android:background="@color/green_3"
+                android:text="Finish Donation"
+                android:textColor="@color/white"
+                android:id="@+id/doDonate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</LinearLayout>

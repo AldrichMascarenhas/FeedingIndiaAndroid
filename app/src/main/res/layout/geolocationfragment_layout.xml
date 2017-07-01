@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:layout_centerInParent="true"
+        android:id="@+id/geo_coordinates_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:text="Press the ‘Location’ button in the top right corner.\nThen, tap the map to place a marker on your location."
+         />
+
+    <Button
+        android:layout_alignParentBottom="true"
+        android:background="@color/green_3"
+        android:text="Finish Donation"
+        android:textColor="@color/white"
+        android:id="@+id/doDonate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</RelativeLayout>

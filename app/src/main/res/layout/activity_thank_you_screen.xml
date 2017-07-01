@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/myImageView"
+
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/third" />
+
+
+    <TextView
+        android:id="@+id/myImageViewText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/myImageView"
+        android:layout_margin="1dp"
+        android:gravity="center"
+        android:paddingTop="100sp"
+        android:text="@string/thank_you_text1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/myImageViewText2"
+        android:paddingTop="75sp"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myImageViewText1"
+        android:layout_margin="1dp"
+        android:gravity="center"
+        android:text="@string/thank_you_text2"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@color/figreen"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/myImageViewText3"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myImageViewText2"
+        android:layout_margin="1dp"
+        android:gravity="center"
+
+        android:text="@string/thank_you_text3"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/thankyou_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/myImageView"
+        android:background="@color/red"
+        android:text="@string/button_text_thank_you"
+        android:textColor="@color/white" />
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="64dp" />
+</RelativeLayout>

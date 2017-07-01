@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main">
+
+
+    <ImageView
+        android:id="@+id/myImageView"
+
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:src="@drawable/third"
+        android:scaleType = "centerCrop"/>
+
+
+    <TextView
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textStyle="bold"
+        android:paddingLeft="30sp"
+        android:paddingTop="100sp"
+        android:id="@+id/myImageViewText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/myImageView"
+        android:layout_alignTop="@id/myImageView"
+        android:layout_margin="1dp"
+        android:text="@string/intro_3_text1"
+        android:textColor="@color/figreen" />
+
+    <TextView
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textStyle="bold"
+        android:paddingLeft="30sp"
+        android:id="@+id/myImageViewText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myImageViewText1"
+        android:layout_margin="1dp"
+        android:text="@string/intro_3_text2"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textStyle="bold"
+        android:paddingLeft="30sp"
+        android:id="@+id/myImageViewText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myImageViewText2"
+        android:layout_margin="1dp"
+        android:text="@string/intro_3_text3"
+        android:textColor="@color/white" />
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="64dp" />
+</RelativeLayout>
