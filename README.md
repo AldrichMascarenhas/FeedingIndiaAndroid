@@ -9,6 +9,10 @@ Basic useful feature list:
 
 
  Download : Check latest release!
+ 
+ https://github.com/AldrichMascarenhas/FeedingIndiaAndroid/releases/tag/V11.0
+ 
+ 
  Use test@test.com as Login.
 
 
