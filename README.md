@@ -8,6 +8,10 @@ Basic useful feature list:
  * Register as Volunteer
 
 
+ Download : Check latest release!
+ Use test@test.com as Login.
+
+
 The initial Feeding India Android App was the result of a Hackathon that we won in 2015 at Techyon 2015 at Padre Conceicao College of Engineering.				
 The Android App was developed by myself, whereas the Backend was developed by <a href="http://aaroncolaco.com/">Aaron Colaco</a>.
 After winning the Hackathon, we got in touch with the NGO - Feeding India, and developed the Platform for them. The App was succesfully launched on the Google Play Store.
